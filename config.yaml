@@ -1,0 +1,10 @@
+client_id: X8JTmKyO1_j6vdbqP2ZJpA8XWINxmfYk
+client_secret: v66b5hlC97Js6pbb0enPN_FPhrgOTYZnvkV0VBiM
+redirect_url: https://547c9278.ngrok.io/uber/test
+scopes:
+    - profile
+    - history
+    - places
+    - request
+    - request_receipt
+    - all_trips
